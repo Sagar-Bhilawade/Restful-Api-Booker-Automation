@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff2c3a42-e2f6-44b4-924f-53b32081b3a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/08418020-98c3-47bb-b706-29530b018880-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0b4a36b8-3736-464d-92d9-07f49f7c93c9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/211cf3b5-4c41-4667-97ab-54610991e725-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/48f8794f-99c5-40b3-9cfa-a914a60eb1f3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4f0c7548-5b1f-4ca7-894a-185033e08f5f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5ea00e13-6203-40ef-b54c-3d115dfdd9ba-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/62bc2f5a-2471-489f-96ee-73b212a8760f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6ba44131-5a96-49ce-aab4-e68a1e41a246-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6d1a424e-6290-4cb8-b2b6-1618b0cc50e8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/81426131-b989-4288-8da9-c9b25d5d6785-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/86f74860-0e3d-49d4-9f52-78dd8412eba0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/91d7e4f6-27a7-4c59-ada2-f993af72009a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/95d3c237-250a-4d7e-a870-0529606189a9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/984f8e4d-889a-405e-97e5-e91c77b73a59-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9acb106e-88a0-4d41-81be-4794495f9475-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a1affac9-0385-4d98-8703-02c667c7b679-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a529f307-18e8-4b4e-a61b-e06d35d21efd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ad3fc358-e164-4a93-86a6-4f871a70963e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ba243b0d-7155-4f25-8f2c-73042a4755c9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c51174e9-cdad-4825-b3af-9da10df3a867-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d1f991a8-ac1b-4471-8365-9fc5e66aef05-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d5cb4c55-a46d-40a6-9a16-271b33890718-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d95dc13f-9b4e-4c6a-8e63-931f5f0522e0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/db3f04d2-a59b-40ad-8715-241f66e30d4b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f640606b-16e9-4969-a4ae-dbad648e89c5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f9afa60d-146a-43b0-aa96-1b94b175fb02-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/endpoint/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/module/PayLoadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/payload/AuthDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/payload/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/payload/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/UnPw.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/actions/AssertActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/crud/CreateBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/practice/AssertjExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/tests/integrationTests/IntegrationTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/integrationTests/IntegrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696823707489</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="INTEGREATION TEST ADDED">
+      <created>1697345321510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697345321511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="INTEGREATION TEST ADDED">
+      <created>1697345333635</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697345333635</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +175,7 @@
     <MESSAGE value="Dependencies Added" />
     <MESSAGE value="BASE CLASS CREATED" />
     <MESSAGE value="FOLDER STRUCTURE CREATED" />
-    <option name="LAST_COMMIT_MESSAGE" value="FOLDER STRUCTURE CREATED" />
+    <MESSAGE value="INTEGREATION TEST ADDED" />
+    <option name="LAST_COMMIT_MESSAGE" value="INTEGREATION TEST ADDED" />
   </component>
 </project>
