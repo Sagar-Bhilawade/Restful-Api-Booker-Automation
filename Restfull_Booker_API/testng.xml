@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/Learning/Automation Testing The Testing Academy/Projects/Restful Booker API Automation/Restfull_Booker_API/src/test/java/org/example/tests/integrationTests"><classes><class name="org.example.tests.integrationTests.IntegrationTest">
+        <methods>
+            <include name="testCreateBooking"/>
+            <include name="testCreateAndUpdateBooking"/>
+            <include name="testDeleteCreatedBooking"/>
+        </methods></class></classes></test></suite>
